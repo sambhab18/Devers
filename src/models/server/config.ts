@@ -14,3 +14,5 @@ const storage = new Storage(client);
 const users = new Users(client);
 
 export { client, databases, avatars, storage };
+// created for config
+
